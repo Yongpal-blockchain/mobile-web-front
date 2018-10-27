@@ -1,0 +1,416 @@
+
+
+
+.imgs img{
+    position: absolute;
+    bottom: 0px;
+}
+
+body {
+    margin: 0px;
+}
+
+#logo {
+    margin-top: 25%
+}
+
+#nav {
+    position: absolute;
+    top:60px;
+    left:60px;
+}
+
+.center {
+        width: 100%;
+    text-align: center;
+}
+
+.one {
+  background-color: #fcfbfd;
+}
+
+.Round-Shop {
+  width: 362px;
+  height: 55px;
+  font-family: HelveticaNeueLTPro-Hv;
+  font-size: 58.5px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: -1.5px;
+  text-align: center;
+line-height: 1.17;
+  color: #000000;
+    font-weight: 1000;
+    margin: 20px auto 0px auto;
+}    
+
+.center1 {
+    position: absolute;
+    top: 950px;
+    width: 100%;
+    text-align: center;
+z-index:100;            
+}
+
+#cartbg {
+ position: absolute;
+    left: 180px;
+    top:100px;
+}
+
+#cart {
+    position: absolute;
+    top: 135px;
+    left: 210px;
+}
+
+.carttext  {
+  width: 166px;
+  height: 36px;
+  font-family: "Noto Sans KR";
+  font-size: 38.5px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.13;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+    position: absolute;
+    left: 350px;
+    top:70px;
+}
+
+.carttexttext {
+  width: 656px;
+  height: 26px;
+  font-family: NotoSansCJKkr;
+  font-size: 27px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+    z-index: 200;
+    position: absolute;
+    left: 350px;
+    top: 130px;
+}
+
+#rentbg {
+ position: absolute;
+    left: 180px;
+    top:480px;
+}
+
+#rent {
+    position: absolute;
+    top: 510px;
+    left: 213px;
+}
+
+.renttext  {
+  width: 226px;
+  height: 36px;
+  font-family: "Noto Sans KR";
+  font-size: 38.5px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.13;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+    position: absolute;
+    left: 350px;
+    top:448.6px;
+}
+
+.renttexttext {
+
+  width: 656px;
+  height: 26px;
+  font-family: NotoSansCJKkr;
+  font-size: 27px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+    z-index: 200;
+    position: absolute;
+    left: 350px;
+    top: 510px;
+
+}
+
+#topbox {
+    width:100%;
+    height: 350px;
+    
+    box-shadow: 0px 8px #e2e2e2;
+}
+
+#back {
+    position: absolute;
+    top: 88.2px;
+    left: 100px;
+    width: 30px;
+}
+
+#bottombox {
+    display: flex;
+}
+
+#nope {
+    width: 100%;
+    height: 210px;
+    
+}
+
+#listtext {
+    font-size: 70px;
+    margin-left: 170px;
+    font-weight: 500;
+    line-height: 220px;
+}
+
+#usedbox {
+    font-size: 250pt;
+    
+    width: 50%;
+}
+
+.littlebox {
+    flex: 1;
+    font-size: 40pt;
+    text-align:center;
+    height: 140px;
+    line-height: 170px;
+}
+
+.bg {
+  width: 1080px;
+  height: 1920px;
+  background-color: #f6f5f9;
+   
+        
+}
+
+.undergray {
+    border-bottom: 2px solid #e2e2e2;
+}
+
+.underblue {
+    border-bottom: 3px solid #2979ff;
+}
+
+.listview {
+    padding:100px 60px;}
+
+.pc_img {
+    width:680px;
+    height: 560px; 
+    overflow: hidden;
+}
+
+.pc_name {
+     font-family:'Noto Sans KR';
+    font-size:28pt;
+    color: #a5a5a5;
+}
+
+.pc_pname {
+    font-family:'Noto Sans KR';
+    font-size:35pt;
+    padding-top: 2px;
+    font-weight: 550;
+}
+
+.pc_price {
+    font-family:'Noto Sans KR';
+    font-size:25pt;
+ display: inline; 
+}
+
+.pc_new {
+    color:#eb4954;
+    border:0.5px solid #eb4954;
+    display: inline-block;
+    font-size: 31px;
+    padding:1px 18px 1px 18px;
+    float: right;
+}
+
+.preoduct_content {
+    width:680px;
+    height: 800px;
+    border-radius: 130px;
+    background-color: white;
+    margin: auto;
+    box-shadow: 0px 8px #e2e2e2;
+}
+
+.preoduct_content p{
+    margin:3px 0px;
+}
+
+.preoduct_content1 p{
+    margin:3px 0px;
+}
+
+.preoduct_content2 p{
+    margin:3px 0px;
+}
+
+.pc_underbox {
+    padding:20px 80px;
+    margin:0px;
+}
+
+.preoduct_content1 {
+    width:680px;
+    height: 800px;
+    border-radius: 130px;
+    background-color: white;
+    position: absolute;
+    left:-580px;
+    top:450px;
+    
+    box-shadow: 0px 8px #e2e2e2;
+}
+
+.preoduct_content2 {
+    width:680px;
+    height: 800px;
+    border-radius: 130px;
+    background-color: white;
+    position: absolute;
+    right: -590px;
+    top:450px;
+}
+
+.circle {
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    margin: 20px 15px;
+}
+
+.grayc {
+    border:1px solid #cdd1d6;
+    background-color: #cdd1d6;
+}
+
+.bluyc {
+    border:1px solid #2979ff;
+    background-color: #2979ff;
+}
+
+.lists {
+    display: flex;
+    position:absolute;
+    left:420px;
+    top: 1290px;
+}
+
+.nayoul {
+    width: 100%;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 23px;
+}
+
+.bottombar {
+    border-top: 2px solid #ababad;
+    position: fixed;
+    bottom:0px;
+    width: 100%;
+    height: 210px;
+    display: flex;
+background-color: white;
+}
+
+.icon {
+    flex: 1;
+    text-align: center;
+}
+
+
+#mypageimg {
+    width:140px;
+    margin-top: 20px;
+}
+
+#homeimg {
+    width: 100px;
+    margin-top: 20px
+}
+
+#searchimg {
+    width: 110px;
+    margin-top: 30px;
+}
+
+.preoduct_content_smal {
+    width:410px;
+    height: 470px;
+    border-radius: 130px;
+    background-color: white;
+    margin: auto;
+    box-shadow: 0px 8px #e2e2e2;
+}
+
+.preoduct_content_smal p{
+    margin: 3px 0px 0px 0px;
+}
+
+.sml_img {
+    width:410px;
+    height: 280px; 
+    overflow: hidden;
+}
+
+.sml_name {
+     font-family:'Noto Sans KR';
+    font-size:18pt;
+    color: #a5a5a5;
+}
+
+.sml_pname {
+    font-family:'Noto Sans KR';
+    font-size:25pt;
+    padding-top: 2px;
+    font-weight: 550;
+}
+
+.sml_price {
+    font-family:'Noto Sans KR';
+    font-size:18pt;
+ display: inline; 
+}
+
+.sml_new {
+    color:#eb4954;
+    border:0.5px solid #eb4954;
+    display: inline-block;
+    font-size: 21px;
+    padding:1px 18px 1px 18px;
+    float: right;
+}
+.sml_grid {
+    display: grid;
+    grid-template-columns: 440px 520px;
+    grid-template-rows: 450px;
+    width: 100%;
+    margin: 80px 0px;
+}
+
+.sml_underbox {
+    padding:15px 40px;
+    margin:0px;
+}
